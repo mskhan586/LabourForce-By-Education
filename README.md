@@ -6,19 +6,19 @@ The purpose of this Power BI project is to provide detailed analytics related to
 ## Demo
 **Main Dashboard**
 
-https://github.com/mskhan586/LabourForce-By-Education/blob/main/img/Employment%20details.png
+![](https://github.com/mskhan586/LabourForce-By-Education/blob/main/img/Main%20Dashboard.png)
 
 **Labor Force Details Page**
 
-https://github.com/mskhan586/LabourForce-By-Education/blob/main/img/Labor%20force%20details.png
+![](https://github.com/mskhan586/LabourForce-By-Education/blob/main/img/Labor%20force%20details.png)
 
 **Employment Details Page**
 
-https://github.com/mskhan586/LabourForce-By-Education/blob/main/img/Employment%20details.png
+![](https://github.com/mskhan586/LabourForce-By-Education/blob/main/img/Employment%20details.png)
 
 **Employment Type Details Page**
 
-https://github.com/mskhan586/LabourForce-By-Education/blob/main/img/Employment%20type%20details.png
+![](https://github.com/mskhan586/LabourForce-By-Education/blob/main/img/Employment%20type%20details.png)
 
 ## Authors
 
